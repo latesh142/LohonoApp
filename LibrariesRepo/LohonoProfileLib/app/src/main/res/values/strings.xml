@@ -1,0 +1,9 @@
+<resources>
+    <string name="eng_label">English</string>
+    <string name="hindi_label">हिंदी</string>
+    <string name="title_label">Title : - - - -</string>
+    <string name="desc_label">Description - - - -</string>
+    <string name="username_label">Username - - - -</string>
+    <string name="area_label">Area - - - - - -</string>
+    <string name="contact_label">+91 - - - - - - - -</string>
+</resources>
